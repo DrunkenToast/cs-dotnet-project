@@ -1,0 +1,9 @@
+[submodule "cs-dotnet-maui"]
+	path = cs-dotnet-maui
+	url = https://github.com/DrunkenToast/cs-dotnet-maui
+[submodule "cs-dotnet-api"]
+	path = cs-dotnet-api
+	url = https://github.com/DrunkenToast/cs-dotnet-api
+[submodule "cs-dotnet-maui-testing"]
+	path = cs-dotnet-maui-testing
+	url = https://github.com/DrunkenToast/cs-dotnet-maui-testing
